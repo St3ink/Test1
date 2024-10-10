@@ -1,11 +1,4 @@
-/*Pay Results
------------
-Sales: $19600.00
-Commission Rate: 0.14
-Commission: $2744.00
-Advanced Pay: $1000.00
-Remaining Pay: $1744.
-*/
+//Title: Project1.cpp
 #include <iostream>
 #include <iomanip>
 using namespace std;
